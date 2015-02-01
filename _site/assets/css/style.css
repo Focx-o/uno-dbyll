@@ -1,0 +1,161 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
+
+body{
+  overflow-X:hidden; 
+}
+
+#nav-menu{
+    position: fixed;
+    top: 45px;
+    right: 45px;
+    z-index: 4;
+}
+
+h1,h2,h3,h4,h5,h6 { font-family: 'Ubuntu', sans-serif; }
+
+.navbar-brand{
+
+	margin-bottom: 15px;
+}
+
+
+.author .author-image {
+  float: left;
+  margin-right: 20px;
+}
+
+.author-bio{
+font-family: 'Raleway', sans-serif;
+}
+
+.author-name{
+	font-family: 'Raleway', sans-serif;
+}
+
+.page-header {
+	color: #e74c3c;
+	text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
+	padding: 0 5% 0;
+	font-family: ubuntu;
+}
+
+
+a.nav-link {
+	padding-bottom: 5px;
+	padding-top: 7px;
+	color: #aaa;
+}
+a.nav-link i{
+	font-size: 16px;
+}
+a.nav-link:hover { color: #777 }
+
+
+article {
+	padding: 0 5% 0;
+	margin-bottom: 40px;
+}
+
+.article_body{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#article_body{
+	font-family: 'Raleway', sans-serif;
+	font-size: large;
+}
+
+.post-date {
+	text-transform: uppercase;
+	font-size: 14px;
+	letter-spacing: 3px;
+}
+
+
+
+footer {
+  padding-top: 15px;
+  font-family: 'Ubuntu';
+}
+
+#sidebar {
+	position: fixed;
+	padding-top: 8%;
+	height: 100%;
+	background-color:#6049df;
+	background-image: url("/assets/media/cover.png"),url("/assets/media/background-cover.jpg");	
+	background-size: 100% 100%;
+	color: #fff;
+	z-index: 5;
+	color: #fff;
+}
+
+.sidebar-header {
+	text-align: center;
+}
+.sidebar-header .title{
+	letter-spacing: 3px;
+}
+
+.sidebar-header .title a{
+	font-family: 'Raleway', sans-serif;
+	text-decoration: none;
+	color: inherit;
+	outline: none;
+}
+
+
+#container{
+	overflow-x:hidden;
+	z-index: 3;
+}
+
+.title{
+	font-family: 'Raleway', sans-serif;
+	font-size: 45px;
+	text-shadow:0 0 5px #000;
+}
+.hr-line {
+	height: 1px;
+	border:none;
+	width: 40%;
+	background-color: rgba(255,255,255,0.50);
+}
+
+.hr-line1 {
+	height: 1px;
+	border:none;
+	width:15%;
+	background-color: rgba(255,255,255,0.50);
+}
+
+.social1{
+
+	border:1px solid white;
+	padding-left: 13px;
+	border-radius: 20px;
+margin-left: 3px;
+	margin-right: 3px;
+}
+
+.social2{
+
+	border:1px solid white;
+	padding-left: 15px;
+	border-radius: 20px;
+	margin-left: 3px;
+	margin-right: 3px;
+
+}
+
+.social3{
+
+	border:1px solid white;
+	padding-left: 13px;
+	border-radius: 20px;
+	padding-right: 12px;
+	margin-left: 3px;
+	margin-right: 3px;
+}
+

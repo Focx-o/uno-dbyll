@@ -1,0 +1,46 @@
+<! -- sidebar.html -->
+<header class="sidebar-header" role="banner">
+	<a href="{{ site.BASE_PATH }}">
+		<img src="{{site.author.uno-dbyll}}" class="img-circle" style="border-radius: 50%;
+border: 3px solid #FFF; height:150px;width:150px" />
+	</a>
+	<h3 class="title">
+        <a href="{{ site.BASE_PATH }}">{{ site.title }}</a>
+         <p style="font-size:20px;">{{ site.author.role }}</p>
+    </h3>
+    
+    <hr class="hr-line">
+<h3 class="title">
+         <p style="font-size:18px">{{ site.author.bio }}</p>
+    </h3>
+
+    <hr class="hr-line1">
+ <h3 class="title" style="font-size:30px;">
+ 
+       {% if site.author.github %}
+      <a type="button" class="social1" href="http://github.com/{{ site.author.github }}">
+        <i class="fa fa-github"></i>
+      </a>
+      {% endif %}
+       {% if site.author.twitter %}
+      <a type="button" class="social2" href="http://twitter.com/{{ site.author.twitter }}">
+        <i class="fa fa-twitter"></i>
+      </a>
+      {% endif %}
+     
+      {% if site.author.email %}
+      <a type="button" class="social3" href="mailto:{{ site.author.email }}">
+        <i class="fa fa-envelope"></i>
+      </a>
+      {% endif %}
+       <hr class="hr-line1">
+       <a type="button"  style="font-size:20px; padding:7px; padding-left:13px;padding-right:13px;margin-right: 10px;" class="social3 " id="btnblog" href="{{ site.BASE_PATH }}/#blog">
+        <i class="fa" style="font-weight:bold;letter-spacing:0; font-family:arial,sans-serif">Blog</i>
+      </a>
+      </h3>
+
+</header>
+
+
+
+<! -- sidebar.html end -->
