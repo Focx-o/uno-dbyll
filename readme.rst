@@ -51,7 +51,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 Read Me
 ---------------------------------------------------
 
-If you find my code is your thing, a link back to http://blog.ankanbiswas.in will really be appreciated.
+If you find my code is your thing, a link back to http://blog.ankanbiswas.in/uno-dbyll will really be appreciated.
 
 .. _İsmail_Demirbilek: https://github.com/dbtek
 .. _project: http://www.ankanbiswas.in
