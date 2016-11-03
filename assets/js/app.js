@@ -1,6 +1,6 @@
 $(document).ready(function(){
   alert("hello world");
-if(window.location.href=="http://blog.ankanbiswas.in/uno-dbyll/")
+if(window.location.href=="{{ site.BASE_PATH }}/uno-dbyll/")
 {
 $("#sidebar").css({width:'100%'});
 $("#btnblog").click(function(){
