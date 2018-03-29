@@ -14,7 +14,7 @@ paginate_path: "page/:num"
 categories_path : categories.html
 tags_path : tags.html
 
-BASE_PATH : http://meliodus.github.io/uno-dbyll
+BASE_PATH : http://officialkingjudy.github.io
 
 
 title : uno-dbyll
@@ -22,12 +22,9 @@ title : uno-dbyll
 
 
 author:
-  name: Ankan Biswas
-  role: Jekyll Theme
+  name: Brooke Watson
   email: meliodus@tutanota.com
-  github: meliodus
-  twitter: talk2ankan
-  facebook: talk2ankan
-  googleplus: +AnkanBiswasWorkspace
-  bio: "Simple, clean, responsive and stylist theme for jekyll. "
+  github: brooke-watson
+  twitter: brooklynevery1
+  bio: ""
   uno-dbyll: https://raw.githubusercontent.com/meliodus/uno-dbyll/gh-pages/uno-dbyll.png
