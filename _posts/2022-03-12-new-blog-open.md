@@ -8,6 +8,10 @@ tags: [new, github, git_blog, githubio, markdown, md, post]
 
 ---
 
+<img src="{{page.image}}" width="85%"/>
+<br/>
+<br/>
+
 # 220312
 
 New Blog Open!
