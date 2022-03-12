@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Blog Open
-description: Linux, Apache, MySQL/MariaDB, PHP. In short LAMP, a complete Open Source solution for web-developer.
+description: New Blog 1st post
 image: /assets/media/내가해냄.JPG
 categories: [daily log]
 tags: [new, github, git_blog, githubio, markdown, md, post]
