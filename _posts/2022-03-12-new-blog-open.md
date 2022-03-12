@@ -8,10 +8,15 @@ tags: [new, github, git_blog, githubio, markdown, md, post]
 
 ---
 
+# 220312
+
+New Blog Open!
+
 <img src="{{page.image}}" width="85%"/>
 <br/>
 <br/>
 
-# 220312
+<발전하는 사람 영어로> <br>
+[I`m geting better everyday in every way.](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=syette828&logNo=221119658293)<br>
 
-New Blog Open!
+[If you`re willing to put in the effort, Don`t expect anything in return.](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=syette828&logNo=221255362544)<br>
