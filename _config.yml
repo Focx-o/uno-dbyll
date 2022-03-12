@@ -14,7 +14,7 @@ paginate_path: "page/:num"
 categories_path : categories.html
 tags_path : tags.html
 
-BASE_PATH : http://meliodus.github.io/uno-dbyll
+BASE_PATH : http://GaYounKoh.github.io
 
 
 title : uno-dbyll
@@ -22,12 +22,12 @@ title : uno-dbyll
 
 
 author:
-  name: Ankan Biswas
+  name: Gayoun Koh
   role: Jekyll Theme
-  email: meliodus@tutanota.com
-  github: meliodus
-  twitter: talk2ankan
-  facebook: talk2ankan
-  googleplus: +AnkanBiswasWorkspace
+  email: imgayoun0@gmail.com
+  github: Gayoun Koh
+  twitter: -
+  facebook: -
+  googleplus: -
   bio: "Simple, clean, responsive and stylist theme for jekyll. "
   uno-dbyll: https://raw.githubusercontent.com/meliodus/uno-dbyll/gh-pages/uno-dbyll.png
